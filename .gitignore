@@ -3,3 +3,4 @@ tools/
 Xresources/
 xrdb/
 xrdb2Xresources.py
+node_modules/
